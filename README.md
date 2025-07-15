@@ -1,7 +1,7 @@
 # Project: Medical Cost Prediction using Linear Regression
 
 ## Files
-- insurance_linear_regression.ipynb : Jupyter notebook containing all steps of the regression project
+- insurance_predictor.ipynb : Jupyter notebook containing all steps of the regression project
 - insurance.csv                     : Dataset with demographic and medical cost information
 Data Source - Kaggle [Insurance Csv](https://www.kaggle.com/datasets/awaiskaggler/insurance-csv)
 
