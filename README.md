@@ -27,7 +27,7 @@ Contains 1,300+ rows with the following columns:
 6. Evaluate model performance (R² score, RMSE)
 7. Predict charges on test data
 
-## ✅ Requirements
+## Requirements
 - Python 3.7+
 - pandas
 - numpy
